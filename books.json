@@ -1,48 +1,51 @@
-{
-    "books": [{
-            "title": "Name of book",
-            "author": "Person",
-            "pages": 100,
-            "language": "en",
-            "will": 1,
-            "read": true,
-            "translation": false
-        },
-        {
-            "title": "O Mundo de Sofia",
-            "author": "Jostein Gaarder",
-            "pages": 566,
-            "language": "pt",
-            "will": 10,
-            "read": false,
-            "translation": true
-        },
-        {
-            "title": "Quo Vadis - Romance dos tempos de Nero",
-            "author": "Henryk, Siwnkiewicz",
-            "pages": 332,
-            "language": "pt",
-            "will": 8,
-            "read": false,
-            "translation": true
-        },
-        {
-            "title": "As Aventuras de Sherlock Holmes",
-            "author": "Arthur Conan Doyle",
-            "pages": 415,
-            "language": "pt",
-            "will": 5,
-            "read": false,
-            "translation": true
-        },
-        {
-            "title": "",
-            "author": "",
-            "pages": 0,
-            "language": "",
-            "will": 0,
-            "read": false,
-            "translation": false
-        }
-    ]
-}
+[{
+        "title": "Name of book",
+        "author": "Person",
+        "pages": 100,
+        "language": "en",
+        "will": 1,
+        "read": true,
+        "translation": false,
+        "date": "2018-01-01"
+    },
+    {
+        "title": "O Mundo de Sofia",
+        "author": "Jostein Gaarder",
+        "pages": 566,
+        "language": "pt",
+        "will": 10,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "Quo Vadis - Romance dos tempos de Nero",
+        "author": "Henryk, Siwnkiewicz",
+        "pages": 332,
+        "language": "pt",
+        "will": 8,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "As Aventuras de Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "pages": 415,
+        "language": "pt",
+        "will": 5,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "",
+        "author": "",
+        "pages": 0,
+        "language": "",
+        "will": 0,
+        "read": false,
+        "translation": false,
+        "date": "2018-01-01"
+    }
+]
