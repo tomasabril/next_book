@@ -39,13 +39,193 @@
         "date": ""
     },
     {
-        "title": "",
-        "author": "",
-        "pages": 0,
-        "language": "",
-        "will": 0,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "pages": 198,
+        "language": "en",
+        "will": 7,
+        "read": true,
+        "translation": false,
+        "date": "2017-06-01"
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "pages": 242,
+        "language": "en",
+        "will": 5,
         "read": false,
         "translation": false,
-        "date": "2018-01-01"
+        "date": ""
+    },
+    {
+        "title": "The Arabian Nights",
+        "author": "Andrew Lang",
+        "pages": 323,
+        "language": "en",
+        "will": 6,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary W. Shelley",
+        "pages": 280,
+        "language": "en",
+        "will": 4,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "L'Homme Révolté",
+        "author": "Albert Camus",
+        "pages": 384,
+        "language": "fr",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Pale Fire",
+        "author": "Vladimir Nabokov",
+        "pages": 315,
+        "language": "en",
+        "will": 7,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Voyage au Centre de la Terre",
+        "author": "Jules Verne",
+        "pages": 183,
+        "language": "fr",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Dune Messiah",
+        "author": "Frank Herbert",
+        "pages": 256,
+        "language": "en",
+        "will": 8,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "This Side of Paradise",
+        "author": "F. Scott Fitzgerald",
+        "pages": 305,
+        "language": "en",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "pages": 471,
+        "language": "en",
+        "will": 7,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "The invisivle man",
+        "author": "H. G. Wells",
+        "pages": 149,
+        "language": "en",
+        "will": 6,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Murphy",
+        "author": "Samuel Becket",
+        "pages": 228,
+        "language": "en",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Meditations of Marcus Aurelius",
+        "author": "Marcus Aurelius",
+        "pages": 101,
+        "language": "en",
+        "will": 7,
+        "read": false,
+        "translation": true,
+        "date": ""
+    },
+    {
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand",
+        "pages": 1168,
+        "language": "en",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Les Miserables",
+        "author": "Victor Hugo",
+        "pages": 1090,
+        "language": "fr",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Le Comte de Monte-Cristo",
+        "author": "Alexandre Père Dumas",
+        "pages": 810,
+        "language": "fr",
+        "will": 4,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "pages": 349,
+        "language": "en",
+        "will": 5,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Le mythe de Sisyphe",
+        "author": "Albert Camus",
+        "pages": 189,
+        "language": "fr",
+        "will": 6,
+        "read": false,
+        "translation": false,
+        "date": ""
+    },
+    {
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "pages": 480,
+        "language": "en",
+        "will": 6,
+        "read": false,
+        "translation": false,
+        "date": ""
     }
 ]
